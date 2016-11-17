@@ -1,0 +1,2 @@
+# MyFirstAI
+http://init.ai
